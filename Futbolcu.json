@@ -1,0 +1,29 @@
+{"futbolcu":[
+	
+	{
+	"futbolcu_id":1,
+	"futbolcu_adi":"alex",
+	"futbolcu_takim":"FB",
+	"futbolcu_yas":40
+	},
+	{
+	"futbolcu_id":2,
+	"futbolcu_adi":"hagi",
+	"futbolcu_takim":"GS",
+	"futbolcu_yas":50
+	},
+	{
+	"futbolcu_id":3,
+	"futbolcu_adi":"sneijder",
+	"futbolcu_takim":"GS",
+	"futbolcu_yas":38
+	},
+	{
+	"futbolcu_id":4,
+	"futbolcu_adi":"guilano",
+	"futbolcu_takim":"FB",
+	"futbolcu_yas":30
+	},
+	
+]}
+	
